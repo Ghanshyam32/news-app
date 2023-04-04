@@ -18,7 +18,7 @@ import retrofit2.Response;
 
 public class HomeFragment extends Fragment {
 
-    String api = "PASTE-YOUR-API";
+    String api = "f57c147ce7ce4647a1b313e40f36405a";
     ArrayList<Model> models;
     Adapter adapter;
     String country = "in";

@@ -18,7 +18,7 @@ import retrofit2.Response;
 
 public class Tech extends Fragment {
 
-    String api = "PASTE-YOUR-API";
+    String api = "PASTE-YOUR-KEY";
     ArrayList<Model> models;
     Adapter adapter;
     String country = "in";

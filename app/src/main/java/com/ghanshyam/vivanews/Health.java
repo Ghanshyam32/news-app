@@ -18,7 +18,7 @@ import retrofit2.Response;
 
 public class Health extends Fragment {
 
-    String api = "f57c147ce7ce4647a1b313e40f36405a";
+    String api = "PASTE-YOUR-KEY";
     ArrayList<Model> models;
     Adapter adapter;
     String country = "in";
